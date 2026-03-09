@@ -9,4 +9,4 @@ A little about me:
 - I am interested in learning more about R programming, data technologies and how to apply them.
 
 A meme that captures how I currently feel about my university studies is ![]
-(https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+(https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)#STATS220
