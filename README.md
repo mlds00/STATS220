@@ -8,7 +8,9 @@ This is my repo for STATS 220.
 - I am interested in learning more about R programming, data technologies and how to apply them.
 - [LinkedIn](www.linkedin.com/in/micah-deleon)
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)# STATS220
+A meme that captures how I currently feel about my university studies is
+
+![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)# STATS220
 
 *Three things I want to eat right now are*
 1. Cheese Katsu from The Don
