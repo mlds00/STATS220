@@ -12,7 +12,7 @@ A meme that captures how I currently feel about my university studies is
 
 ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)# STATS220
 
-*Three things I want to eat right now are*
+*Three things I want to eat right now are...*
 1. Cheese Katsu from The Don
 2. Açaí bowl
 3. Shibbys with pistachio crumb **(so good!)**
